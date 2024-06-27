@@ -1,0 +1,35 @@
+Podstawy SQL i PostgreSQL:
+Zaawansowane zapytania SQL: Opanowanie składni SQL, zrozumienie operacji takich jak JOINy, agregacje (np. GROUP BY, HAVING), operacje na danych (INSERT, UPDATE, DELETE), subzapytania.
+
+Indeksowanie i optymalizacja: Znajomość jak tworzyć i zarządzać indeksami w PostgreSQL dla optymalizacji zapytań. Zrozumienie, jak wykorzystać EXPLAIN ANALYZE do analizy wykonania zapytań i poprawy ich wydajności.
+
+Transakcje i zarządzanie transakcyjnością: Znajomość mechanizmów transakcyjnych w PostgreSQL, zamykanie i zatwierdzanie transakcji, obsługa konfliktów.
+
+Bezpieczeństwo i autoryzacja: Zrozumienie jak zarządzać użytkownikami, rolami i uprawnieniami w PostgreSQL, w tym przyznawanie dostępu do tabel i procedur.
+
+Zaawansowane funkcjonalności PostgreSQL:
+Programowanie w PostgreSQL: Znajomość języka PL/pgSQL do tworzenia funkcji, procedur składowanych, wyzwalaczy (triggers) i funkcji agregujących.
+
+Zarządzanie danymi JSON i XML: Umiejętność pracy z danymi JSON i XML w PostgreSQL, w tym tworzenie, zapytania i indeksowanie kolumn typu JSONB/XML.
+
+Replikacja i wysoka dostępność: Zrozumienie jak skonfigurować replikację w PostgreSQL, zarządzanie klastrami i wysoką dostępnością (HA), np. przy użyciu mechanizmów jak pgPool, Patroni, Streaming Replication.
+
+Backup i recovery: Umiejętność tworzenia i przywracania backupów danych PostgreSQL, zarządzanie punktami przywracania (recovery points).
+
+Integracja z webowymi technologiami full stack:
+ORM (Object-Relational Mapping): Znajomość popularnych frameworków ORM dla PostgreSQL (np. Hibernate w Java, Sequelize w Node.js) oraz umiejętność mapowania obiektowo-relacyjnego.
+
+Webowe frameworki: Znajomość głównych webowych frameworków (np. Spring w Java, Express w Node.js) oraz integracji z PostgreSQL, w tym tworzenie RESTful API.
+
+Bezpieczeństwo aplikacji: Zrozumienie zagadnień dotyczących bezpieczeństwa aplikacji webowych, w tym SQL Injection, Cross-Site Scripting (XSS), oraz technik zarządzania hasłami i autoryzacją.
+
+Monitoring i debugowanie: Umiejętność monitorowania wydajności aplikacji, w tym zapytań SQL, oraz debugowania problemów z bazą danych i aplikacją.
+
+DevOps: Zrozumienie jak integrować aplikacje z PostgreSQL w kontekście CI/CD, wdrażania i zarządzania środowiskami produkcyjnymi.
+
+Certyfikacje i dalsze kształcenie:
+Certyfikacje PostgreSQL: Rozważ uzyskanie certyfikatów potwierdzających Twoje umiejętności w zakresie PostgreSQL, takich jak Certified PostgreSQL Associate/Professional.
+
+Kursy i szkolenia: Regularnie uczestnicz w kursach, warsztatach i konferencjach poświęconych PostgreSQL, SQL oraz webowym technologiom, aby śledzić najnowsze trendy i technologie.
+
+Budowanie projektów open-source: Zaangażowanie się w projekty open-source związane z PostgreSQL i webowymi technologiami, co pozwala na praktyczne stosowanie wiedzy i zdobywanie doświadczenia.
