@@ -28,7 +28,6 @@
 				<enabled>false</enabled>
 			</snapshots>
 		</repository>
-		<!-- Dodaj inne repozytoria tutaj, jeśli są potrzebne -->
 	</repositories>
 	<dependencies>
 		<dependency>
@@ -64,12 +63,6 @@
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-api</artifactId>
-			<version>${junit.jupiter.version}</version>
-			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.junit.jupiter</groupId>
-			<artifactId>junit-jupiter-engine</artifactId>
 			<version>${junit.jupiter.version}</version>
 			<scope>test</scope>
 		</dependency>
@@ -111,7 +104,7 @@
 			<plugin>
 				<groupId>org.sonarsource.scanner.maven</groupId>
 				<artifactId>sonar-maven-plugin</artifactId>
-				<version>3.9.1.2184</version> <!-- Aktualizacja wersji pluginu SonarQube -->
+				<version>3.9.1.2184</version> <!-- Sprawdź, czy ta wersja jest dostępna -->
 			</plugin>
 		</plugins>
 	</build>
